@@ -1,7 +1,6 @@
 # Zip Code Finder
 
-This is a challenge designed to test your ability to fetch data from an API, and manipulate the DOM with javascript.  [ZIP Codes](https://en.wikipedia.org/wiki/ZIP_Code) are used by the USPS as unique identifiers for geographic regions. [Zippopotomus](https://www.zippopotam.us) is a free API that accepts zip codes, and returns detailed information about the geographic region that zip code represents.
-
+This is a challenge designed to test your ability to fetch data from an API, and manipulate the DOM with javascript. [ZIP Codes](https://en.wikipedia.org/wiki/ZIP_Code) are used by the USPS as unique identifiers for geographic regions. [Zippopotomus](https://www.zippopotam.us) is a free API that accepts zip codes, and returns detailed information about the geographic region that zip code represents.
 
 ## The Challenge
 
@@ -18,7 +17,10 @@ This is a challenge designed to test your ability to fetch data from an API, and
 - The code should work in the latest version of Chrome.
 
 ## Instructions
+
 - Fork this repo to a private repo in your own GitHub account.
 - Complete the challenge.
 - Push your solution to your private repo.
 - Share your repo with @thisanimus and @robmomary.
+
+<!-- This text will not be visible in the rendered README. -->
