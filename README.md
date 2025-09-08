@@ -16,11 +16,11 @@ This is a challenge designed to test your ability to fetch data from an API, and
 - You may not use 3rd-party libraries.
 - The code should work in the latest version of Chrome.
 
+<!-- This text will not be visible in the rendered README. -->
+
 ## Instructions
 
 - Fork this repo to a private repo in your own GitHub account.
 - Complete the challenge.
 - Push your solution to your private repo.
 - Share your repo with @thisanimus and @robmomary.
-
-<!-- This text will not be visible in the rendered README. -->
